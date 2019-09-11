@@ -1,10 +1,10 @@
 # Coder Diary
 
-This theme is forked from **[Mainroad](https://github.com/Vimux/Mainroad)** and specialized to readibility of long posts. The source code is clean so you can easily hack it if you want.
+This theme is forked from [Mainroad](https://github.com/Vimux/Mainroad) and specialized to readibility of long posts. The source code is clean so you can easily hack it if you want.
 
-[Real-life Example](https://furkantokac.com/)
+Check for real-life example : [furkantokac.com](https://www.furkantokac.com/)
 
-Following of the README is taken directly from [Mainroad's README](https://github.com/Vimux/Mainroad/blob/master/README.md) and edited according to changes.
+Following of the README is directly taken from [Mainroad's README](https://github.com/Vimux/Mainroad/blob/master/README.md) and edited according to changes.
 
 **Features:**
 
@@ -39,6 +39,8 @@ Next, open `config.toml` in the base of the Hugo site and ensure the theme optio
 theme = "coder-diary"
 ```
 
+To apply the demo, remove all the folders, files on base directory except /themes folder, copy all the files in /themes/coder-diary/exampleSite to base directory.
+
 For more information read the official [setup guide](https://gohugo.io/themes/installing-and-using-themes/) of Hugo.
 
 ## Configuration
@@ -64,7 +66,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   description = "John Doe's Personal blog about everything" # Site description. Used in meta description
   header_img = "img/header_img.svg" # Logo displayed in site header
   opengraph = true # Enable OpenGraph if true
-  twitter_cards = true # Enable Twitter Cards if true
   readmore = false # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents

@@ -8,7 +8,7 @@ features = ["blog", "responsive", "widgets", "rss", "disqus", "wordpress"]
 min_version = "0.48"
 
 [author]
-  name = "Furkan Tokac"
+  name = "Furkan Tokaç"
   homepage = "https://github.com/furkantokac"
 
 # If porting an existing theme
