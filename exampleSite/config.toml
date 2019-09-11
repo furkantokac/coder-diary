@@ -1,9 +1,9 @@
 baseurl = "/"
-title = "Coder Diary"
+title = "Kodcu"
 languageCode = "en-us"
 DefaultContentLanguage = "en" # Check i18n folder to see the available languages. You can add you own lang.
 paginate = "10" # Number of posts per page
-theme = "coder-diary"
+theme = "kodcu"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 summaryLength = 25
